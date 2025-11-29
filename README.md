@@ -8,7 +8,7 @@
 
 **This is a world map that includes LapisLegacyMC's first creation, or else, a build, that is the Red Dusty-Style House. It contains a house built in the style of entrance extended from the base level. This house has two levels with a balcony on top of the entrance. This house can house up to two players comfortably, offering a ton of utilities and decorations for a delightful experience for the player. It contains farms on both sides of the entrance. Up next to the 2nd level, we have our storage room filled with a ton of chests, providing a ton of storage capacity. Next to the storage room we have our beloved enchanting room, filled with bookshelves, along with an enchanting table below some bookshelves, and a chest to store Lapis Lazuli. A balcony is also present on top of the entrance too to have a nice view of the beauty of nature. This map's Java Edition game version is 1.21.8, but you can upgrade this world to the current stable version 1.21.10 just by playing the world map on it. Watch LLMC building this splendid map** [**here**](https://youtu.be/CXPLMNw_OkU) **on YouTube and subscribe to him too. Hope you have a nice time playing this map. Please note, by using, downloading, and playing this world map, you agree to GluwdeGamer Code of Conduct (**[**94240GG**](https://drive.google.com/file/d/1VABHkI4-27nMt0JVbJHbjtQtbfDxsJmE/view?usp=sharing)**), LapisLegacyMC Copyright Notice (**[**62301LLMC**](https://gluwdegamer.wixsite.com/lapislegacymc/legal-info)**), and other applicable agreements.**
 
-
+You can download it for free from DeviantArt ([click here](https://www.deviantart.com/lapislegacymc/art/LLMC-s-Red-Dusty-Style-House-1-21-8-1269122327)) or from CurseForge ([click here](https://www.curseforge.com/minecraft/worlds/llmc-red-dusty-style-house)). View screenshots on CurseForge and PlanetMinecraft ([click here](https://www.planetminecraft.com/project/llmc-s-red-dusty-style-house/)).
 
 ##### **Frequently-Asked Questions (FAQs)**
 
@@ -40,4 +40,5 @@
 
 
 ***© 2025***<i> **LapisLegacyMC** <b>and</b> <b>GluwdeGamer. All Rights Reserved.</b></i>
+
 
